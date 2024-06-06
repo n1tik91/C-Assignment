@@ -1,1 +1,1 @@
-# All codes of C Lang
+# All codes of assignment of C Language
